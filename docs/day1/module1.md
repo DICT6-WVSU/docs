@@ -101,8 +101,8 @@ print(summary[0]['summary_text'])
 ## Instructional Materials
 
 ### PowerPoint Presentation
-- [Introduction to AI and LLMs](path/to/presentation.pdf)
-- [Hands-on Workshop Guide](path/to/workshop_guide.pdf)
+- Introduction to AI and LLMs
+- Hands-on Workshop Guide
 
 ### Additional Resources
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
