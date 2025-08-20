@@ -63,6 +63,11 @@ const config: Config = {
       disableSwitch: false,
       respectPrefersColorScheme: false,
     },
+    algolia: {
+      appId: '5YFI5LD5BT',
+      indexName: 'Documentation Website',
+      apiKey: '17b93151297cf402c0c2a6a67bb8a39d'
+    },
     navbar: {
       title: 'DICT R6 - WVSU',
       logo: {
@@ -77,7 +82,7 @@ const config: Config = {
           label: 'Training',
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/DICT6-WVSU',
           label: 'GitHub',
           position: 'right',
         },
